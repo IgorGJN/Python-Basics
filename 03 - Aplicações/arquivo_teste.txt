@@ -1,0 +1,4 @@
+Esse é um teste em Python
+Essa é a segunda linha em Python
+Essa é a terceira linha em Python
+Essa é a terceira linha em Python
